@@ -1,0 +1,15 @@
+/Users/darinafesenko/Desktop/example2/bin/Debug/net6.0/example2
+/Users/darinafesenko/Desktop/example2/bin/Debug/net6.0/example2.deps.json
+/Users/darinafesenko/Desktop/example2/bin/Debug/net6.0/example2.runtimeconfig.json
+/Users/darinafesenko/Desktop/example2/bin/Debug/net6.0/example2.dll
+/Users/darinafesenko/Desktop/example2/bin/Debug/net6.0/example2.pdb
+/Users/darinafesenko/Desktop/example2/obj/Debug/net6.0/example2.csproj.AssemblyReference.cache
+/Users/darinafesenko/Desktop/example2/obj/Debug/net6.0/example2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darinafesenko/Desktop/example2/obj/Debug/net6.0/example2.AssemblyInfoInputs.cache
+/Users/darinafesenko/Desktop/example2/obj/Debug/net6.0/example2.AssemblyInfo.cs
+/Users/darinafesenko/Desktop/example2/obj/Debug/net6.0/example2.csproj.CoreCompileInputs.cache
+/Users/darinafesenko/Desktop/example2/obj/Debug/net6.0/example2.dll
+/Users/darinafesenko/Desktop/example2/obj/Debug/net6.0/refint/example2.dll
+/Users/darinafesenko/Desktop/example2/obj/Debug/net6.0/example2.pdb
+/Users/darinafesenko/Desktop/example2/obj/Debug/net6.0/example2.genruntimeconfig.cache
+/Users/darinafesenko/Desktop/example2/obj/Debug/net6.0/ref/example2.dll
